@@ -15,6 +15,11 @@ RevitMCPSDK is a comprehensive software development kit for Autodesk Revit that 
 - **Versioning Support**: Compatibility management between different Revit versions
 - **Comprehensive Error Handling**: Standardized error codes and reporting
 
+
+## Revit 2023 Setup Guide
+
+For a step-by-step guide covering both end-user installation of a ready-to-use Revit 2023 MCP add-in and developer setup with the RevitMCPSDK NuGet package, see [Revit 2023 MCP Installation and SDK Development](docs/revit-2023-mcp-installation.md). The SDK package is a development library; it is not a ready-to-install Revit add-in by itself.
+
 ## Installation
 
 ### NuGet Package
